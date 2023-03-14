@@ -1,0 +1,387 @@
+
+{
+    " Air Force General Hospital ": {
+      "Computed Tomography Scan (CTS)": {
+        "Price": 300,
+        "Quantity": 10,
+        "Time": "24H"
+      },
+      "Echo": {
+        "Price": 800,
+        "Quantity": 5,
+        "Time": "24H"
+      },
+      "Electroencephalography (EEG)": {
+        "Price": 650,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Exercise stress test (EST)": {
+        "Price": 850,
+        "Quantity ": 2,
+        "Time ": "9:00 am to 4:00 pm"
+      },
+      "Information": {
+        "Address": "El-Abaseya, El Weili, Cairo Governorate",
+        "City": "Cairo",
+        "E-mail": "AFSH@airforcesh.org.eg",
+        "ID": 3,
+        "Phone": 226832294
+      },
+      "Intensive care unit (ICU)": {
+        "Price": 12000,
+        "Quantity": 30,
+        "Time": "24H"
+      },
+      "Magnetic resonance imaging (MRI)": {
+        "Price": 1800,
+        "Quantity": 3,
+        "Time": "24H"
+      },
+      "PET\\CT": {
+        "Price": 6300,
+        "Quantity": 4,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Ultrasound": {
+        "Price": 500,
+        "Quanityt": 7,
+        "Time": "24H"
+      },
+      "X-ray": {
+        "Price": 800,
+        "Quantity": 5,
+        "Time": "24H"
+      },
+      "endoscopy": {
+        "Price": 2500,
+        "Quantity": 6,
+        "Time": "24H"
+      },
+      "medical room": {
+        "Price": 2000,
+        "Quantity": 220,
+        "Time": "24H"
+      }
+    },
+    " Saudi German Hospital Cairo  ": {
+      "Computed Tomography Scan (CTS)": {
+        "Price": 300,
+        "Quantity ": 8,
+        "Time": "24H"
+      },
+      "Electroencephalography (EEG)": {
+        "Price": 650,
+        "Quantity": 5,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Exercise stress test (EST)": {
+        "Price": 850,
+        "Quantity ": 5,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Information": {
+        " Phone": 226633392,
+        "Address": "Taha Hussein Rd, Huckstep, El Nozha, Cairo Governorate ",
+        "City": "Cairo",
+        "E-mail": "info.cai@sghgroup.net",
+        "ID": 5
+      },
+      "Intensive care unit (ICU)": {
+        "Price": 12000,
+        "Quantity ": 37,
+        "Time": "24H"
+      },
+      "Magnetic resonance imaging (MRI)": {
+        "Price": 1800,
+        "Quantity ": 6,
+        "Time": "24H"
+      },
+      "PET\\CT": {
+        "Price": 6300,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Ultrasound": {
+        "Price": 500,
+        "Quantity ": 7,
+        "Time": "24H"
+      },
+      "X-ray": {
+        "Price": 800,
+        "Quantity ": 4,
+        "Time ": "24h"
+      },
+      "echo": {
+        "Price": 800,
+        "Quantity ": 5,
+        "Time": "24H"
+      },
+      "endoscopy": {
+        "Price": 2500,
+        "Quantity": 7,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "medical room": {
+        "Price": 2000,
+        "Quantity ": 190,
+        "Time": "24H"
+      }
+    },
+    "Abbassia Fever Hospital": {
+      "Computed Tomography Scan (CTS)": {
+        "Price": 300,
+        "Quantity": 10,
+        "Time": "24H"
+      },
+      "Electroencephalography (EEG)": {
+        "Price": 650,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Exercise stress test (EST)": {
+        "Price": 850,
+        "Quantity": 2,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Information": {
+        " City": "Cairo",
+        "Address": "El-Abaseya ,Nasr City",
+        "E-mail": "AFH@gmail.com",
+        "ID": 1,
+        "phone": 223424025
+      },
+      "Intensive care unit (ICU)": {
+        "Price": 2500,
+        "Quantity": 30,
+        "Time": "24H"
+      },
+      "Magnetic resonance imaging (MRI)": {
+        "Price": 1800,
+        "Quantity ": 3,
+        "Time": "24H"
+      },
+      "PET\\CT": {
+        "Price": 6300,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Ultrasound": {
+        "Price": 500,
+        "Quantity ": 7,
+        "Time": "24H"
+      },
+      "X-ray": {
+        "Price": 800,
+        "Quantity": 5,
+        "Time": "24H"
+      },
+      "echo": {
+        "Price": 800,
+        "Quantity": 5,
+        "Time": "24H"
+      },
+      "endoscopy": {
+        "Price": 2500,
+        "Quantity": 6,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "medical room": {
+        "Price": 2000,
+        "Quantity": 220,
+        "Time": "24H"
+      }
+    },
+    "Al Assema Hospital": {
+      "Computed Tomography Scan (CTS)": {
+        "Price": 300,
+        "Quantity": 10,
+        "Time": "24H"
+      },
+      "Electroencephalography (EEG)": {
+        "Price": 650,
+        "Quantity": 2,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Exercise stress test (EST)": {
+        "Price": 850,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Informatiom": {
+        " City": "Cairo",
+        " E-mail": "medical-clinic@mail.com",
+        "Address": "15 Ahmed Samy El-Sayed, Ad Doqi, Dokki, Giza Governorate",
+        "ID": 6,
+        "Phone": 233658040
+      },
+      "Intensive care unit (ICU)": {
+        "Price": 12000,
+        "Quantity": 31,
+        "Time": "24H"
+      },
+      "Magnetic resonance imaging (MRI)": {
+        "Price": 1800,
+        "Quantity ": 3,
+        "Time": "24H"
+      },
+      "PET\\CT": {
+        "Price": 6300,
+        "Quantity": 2,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Ultrasound": {
+        "Price": 500,
+        "Quantity": 9,
+        "Time": "24H"
+      },
+      "X-ray": {
+        "Price": 800,
+        "Quantity": 3,
+        "Time": "24H"
+      },
+      "echo": {
+        "Price": 800,
+        "Quantity": 4,
+        "Time": "24H"
+      },
+      "endoscopy": {
+        "Price": 2500,
+        "Quantity": 9,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "medical room": {
+        "Price": 2000,
+        "Quantity": 170,
+        "Time": "24H"
+      }
+    },
+    "Cairo Specialised Hospital": {
+      "Computed Tomography Scan (CTS)": {
+        "Price": 300,
+        "Quantity": 9,
+        "Time": "24H"
+      },
+      "Electroencephalography (EEG)": {
+        "Price": 650,
+        "Quantity": 4,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Exercise stress test (EST)": {
+        "Price": 850,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Information": {
+        " City": "Cairo",
+        " E-mail": "null",
+        " ID": 4,
+        " Phone": 1020186351,
+        "Address": "4 Abou Ebaid El Bakry St. Off Ghernata St Roxy, Heliopolis"
+      },
+      "Intensive care unit (ICU)": {
+        "Price": 12000,
+        "Quantity": 32,
+        "Time": "24H"
+      },
+      "Magnetic resonance imaging (MRI)": {
+        "Price": 1800,
+        "Quantity": 4,
+        "Time": "24H"
+      },
+      "PET\\CT": {
+        "Price": 6300,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Ultrasound": {
+        "Price": 500,
+        "Quantity": 8,
+        "Time": "24H"
+      },
+      "X-ray": {
+        "Price": 800,
+        "Quantity": 4,
+        "Time": "24H"
+      },
+      "echo": {
+        "Price": 800,
+        "Quantity": 4,
+        "Time": "24H"
+      },
+      "endoscopy": {
+        "Price": 2500,
+        "Quantity": 8,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "medical room": {
+        "Price": 2000,
+        "Quantity": 185,
+        "Time": "24H"
+      }
+    },
+    "Mostafa Mahmoud Specialized Hospital": {
+      "Computed Tomography Scan (CTS)": {
+        "Price": 300,
+        "Quantity": 7,
+        "Time": "24H"
+      },
+      "Electroencephalography (EEG)": {
+        "Price": 650,
+        "Quantity": 2,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Exercise stress test (EST)": {
+        "Price": 850,
+        "Quantity": 3,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Information": {
+        " Address": " Mit Akaba, Agouza, Giza Governorate",
+        " City": "Cairo",
+        " E-mail": "MMSH@gmail.com",
+        " Phone": 233027352,
+        "ID": 2
+      },
+      "Intensive care unit (ICU)": {
+        "Price": 12000,
+        "Quantity": 28,
+        "Time": "24H"
+      },
+      "Magnetic resonance imaging (MRI)": {
+        "Price": 1800,
+        "Quantity": 4,
+        "Time": "24H"
+      },
+      "PET\\CT": {
+        "Price": 6300,
+        "Quantity": 2,
+        "Time": "9:00 am to 4:00 pm"
+      },
+      "Ultrasound": {
+        "Price": 500,
+        "Quantity": 8,
+        "Time": "24H"
+      },
+      "X-ray": {
+        "Price": 800,
+        "Quantity": 5,
+        "Time": "24H"
+      },
+      "echo": {
+        "Price": 800,
+        "Quantity": 3,
+        "Time": "24H"
+      },
+      "endoscopy": {
+        " Price": 2500,
+        " Time": "9:00 am to 4:00 pm",
+        "Quantity": 5
+      },
+      "medical room": {
+        "Price": 2000,
+        "Quantity": 180,
+        "Time": "24H"
+      }
+    }
+  }
